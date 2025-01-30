@@ -1,0 +1,4 @@
+backend-api/.env
+backend-api/.venv
+venv/
+__psycache__/
